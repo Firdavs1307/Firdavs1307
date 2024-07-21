@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @FirdavsMukimjanov
-- 👀 I’m a Frontend Developer
+
